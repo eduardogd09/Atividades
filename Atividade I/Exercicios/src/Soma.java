@@ -43,3 +43,4 @@ public class Soma {
         sc.close();
     }
 }
+// A complexidade deste algoritmo é de O(n³)

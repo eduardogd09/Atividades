@@ -30,3 +30,5 @@ public class Ex1 {
 
     }
 }
+
+// A ordem de complexidade deste algoritmo é de O(n)
